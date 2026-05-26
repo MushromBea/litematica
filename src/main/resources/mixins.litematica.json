@@ -47,8 +47,6 @@
         "model.IMixinModelManager",
         "model.MixinBlockStateDefinitions",
         "model.MixinPackRepository",
-        "network.MixinClientCommonPacketListenerImpl",
-        "network.MixinClientPacketListener",
         "render.IMixinGameRenderer",
         "render.MixinEntityHitboxDebugRenderer",
         "render.MixinEntityRenderDispatcher",
